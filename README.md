@@ -8,7 +8,7 @@ npm install sp-random-list-items --save
 
 ## Usage
 ```js
-var SPDummyListItemsCreation = require('sp-random-list-items');
+var SPRandomListItemsCreation = require('sp-random-list-items');
 
 // Initialize an instance with web url and list title
 // Use new SPRandomListItemsCreation('web url', 'list title', true) if the you need SP.AppContextSite to get the web
