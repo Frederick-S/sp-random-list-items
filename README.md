@@ -12,7 +12,7 @@ var SPRandomListItemsCreation = require('sp-random-list-items');
 
 // Initialize an instance with web url and list title
 // Use new SPRandomListItemsCreation('web url', 'list title', true) if the you need SP.AppContextSite to get the web
-var randomListItemsCreation = new SPRandomListItemsCreation(appWebUrl, 'TestList');
+var randomListItemsCreation = new SPRandomListItemsCreation('web url', 'list title');
 
 // randomListItemsCreation.create(fieldValuesRegularExpression, count, done, error)
 // Create 20 list items with given field values regular expression
