@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="84edf501-d7c2-46c3-a943-e23c131b0f47" 
+        solutionId="84edf501-d7c2-46c3-a943-e23c131b0f47" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SharePoint_App_SPRandomListItems_Test"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="899112bc-3d6d-4cdb-9e1b-df3bb0f7ebde" />
+  </features>
+</package>

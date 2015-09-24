@@ -1,0 +1,29 @@
+{
+  "name": "sp-random-list-items",
+  "version": "0.0.1",
+  "description": "Create SharePoint list items with random field values that match given regular expressions.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frederick-S/sp-random-list-items.git"
+  },
+  "keywords": [
+    "SharePoint"
+  ],
+  "author": "Frederick-S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Frederick-S/sp-random-list-items/issues"
+  },
+  "homepage": "https://github.com/Frederick-S/sp-random-list-items#readme",
+  "dependencies": {
+    "randexp": "^0.4.0",
+    "sp-context-helper": "0.0.2"
+  }
+}
