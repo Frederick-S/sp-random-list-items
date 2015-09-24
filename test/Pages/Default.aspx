@@ -9,7 +9,7 @@
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="PlaceHolderPageTitleInTitleArea" runat="server">
-    Page Title
+    Test
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="PlaceHolderMain" runat="server">
