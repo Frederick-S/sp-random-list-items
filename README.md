@@ -20,9 +20,9 @@ randomListItemsCreation.create({
     'Title': /great|good|bad|excellent/,
     'Score': /\d{3}/
 }, 20, function (sender, args) {
-    $('#message').html('List items are createdly successfully. <a href=\'' + appWebUrl + '/Lists/TestList\'>Check it</a>.');
+    // Do something
 }, function (sender, args) {
-    $('#message').text(args.get_message());
+    // Error
 });
 ```
 
