@@ -24,6 +24,6 @@
   "homepage": "https://github.com/Frederick-S/sp-random-list-items#readme",
   "dependencies": {
     "randexp": "^0.4.0",
-    "sp-context-helper": "0.0.2"
+    "sp-context-helper": "1.0.3"
   }
 }
