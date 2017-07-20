@@ -1,4 +1,6 @@
 # sp-random-list-items
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frederick-S/sp-random-list-items.svg)](https://greenkeeper.io/)
 Create SharePoint list items with random field values that match given regular expressions.
 
 ## Installation
